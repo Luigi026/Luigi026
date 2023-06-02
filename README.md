@@ -4,6 +4,8 @@
 # 👋 Hi, I’m Luigi Navarro
 ![My stats](https://github-readme-stats.vercel.app/api?username=Luigi026&count_private=true&show_icons=true&theme=radical)
 
+[![](earth.png)]()
+
 I am a QA tester.
 
 ## 💪🏼 Skills
