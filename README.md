@@ -1,4 +1,4 @@
-[![](earth.png)]()
+[![](/earth.png)]()
 
 ### Hi there 👋
 
