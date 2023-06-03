@@ -16,11 +16,17 @@
 
 # 💪🏼 Skills
 - Jira
-- Postman
+- Zephyr
+- Postman - API
 - Agile methodology
-- Scrum
+- Scrum methodology
 - Database
 - Git
+- SQL
+- JavaScript
+- Python
+- CSS
+- HTML
 
 # 👀 You can find me at:
 - Linkedin: [tuNombre](https://www.linkedin.com/in/luigi-navarro-500b30258/?trk=public-profile-join-page)
