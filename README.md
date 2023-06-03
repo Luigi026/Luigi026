@@ -29,4 +29,4 @@
 - HTML
 
 # 👀 You can find me at:
-- Linkedin: [tuNombre](https://www.linkedin.com/in/luigi-navarro-500b30258/?trk=public-profile-join-page)
+- Linkedin: [Luigi Navarro](https://www.linkedin.com/in/luigi-navarro-500b30258/?trk=public-profile-join-page)
