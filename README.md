@@ -12,7 +12,7 @@
 # 👋 Hi, I’m Luigi Navarro
 ![My stats](https://github-readme-stats.vercel.app/api?username=Luigi026&count_private=true&show_icons=true&theme=radical)
 
-### I am a QA tester.
+# I am a QA tester / Developer
 
 # 💪🏼 Skills
 - Jira
