@@ -21,7 +21,6 @@
 - Agile methodology
 - Scrum methodology
 - Database
-- Git
 - SQL
 - JavaScript
 - Python
