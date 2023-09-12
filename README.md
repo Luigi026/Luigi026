@@ -1,11 +1,4 @@
 [![](https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_1280.jpg)]()
-[![forthebadge](https://forthebadge.com/images/badges/Uses-Git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 
 # Hi there 👋
